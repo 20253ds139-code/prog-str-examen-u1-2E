@@ -5,7 +5,6 @@
 1) **NO** se permite merge a `main`.
 2) Ramas obligatorias (desde `main`):
 - `nombre-apellido/develop`
-- `nombre-apellido/merge`
 
 > Ejemplo: `ana-lopez/develop` y `ana-lopez/merge`
 
